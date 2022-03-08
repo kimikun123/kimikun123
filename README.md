@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kimikun123
 - 💞️ I’m 18 yeards old now
-- 👀 I’m interested in web programing and IOS application development
+- 👀 I’m interested in competitive programming and IOS application development
 - 🌱 I’m currently learning python
 - 📫 How to reach me instagram.com/kimikun123/
 <!---
